@@ -19,15 +19,12 @@ The idea is to organize, create, point and maintain quality content for enthusia
 
 We aim to meet this goal by using the GitHub platform, as it makes it possible to unify discussions, people, and code in one place, in a way that facilitates the search and relationship between them.
 
-Some of GitHub's strengths in this goal are:
+GitHub's strengths:
 
 * Space used by almost all developers
 * [Markdown](https://en.wikipedia.org/wiki/Markdown) as standard formatting language.
 * [Excellent internal search tool](https://github.com/search?utf8=).
-* Issues as a discussion forums.
 * It's a social network
-* Organizable
-* Scalable
 
 The structure of this organization was mirrored in [this excellent Brazillian project.](http://frontendbr.com.br/) 
 We thank them.
