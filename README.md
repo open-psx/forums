@@ -117,12 +117,12 @@ Badge | Link | Participate
 ## Open PSX Repositories
 
 - [Forums]()
-- [Open Source](https://github.com/frontendbr/open-source)
-- [Suggestions](https://github.com/frontendbr/sugestoes)
+- [Open Source]()
+- [Suggestions]()
 
 ## License
 
-[MIT](https://raw.githubusercontent.com/frontendbr/forum/master/LICENSE)
+[MIT](https://raw.githubusercontent.com/open-psx/forums/master/LICENSE)
 
 ## Notice
 
