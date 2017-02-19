@@ -99,9 +99,9 @@ Like any civilized place, there are some rules that must be followed to provide 
 
 * Behave professionally. Participants who violate such rules will be invited to withdraw or be banned because of the seriousness of their actions.
 
-## Receiving Forum Updates
+## Receiving Forums Updates
 
-You can receive Forum updates in your email or via GitHub notifications, just click **Watch** and then click **Watching** in the upper right corner of the site interface, next to your profile photo .
+You can receive updates in your email or via GitHub notifications, just click **Watch** and then click **Watching** in the upper right corner of the site interface, next to your profile photo .
 
 <p align="center">
   <img src="https://help.github.com/assets/images/help/notifications/watcher_picker.gif" alt="Watch GitHub repo"/>
@@ -109,7 +109,7 @@ You can receive Forum updates in your email or via GitHub notifications, just cl
 
 ## Extra
 
-In Slack [Open PSX](http://open-psx.slack.com) there is the channel `#forums` that is integrated with the **GitHub**, this way, you will always know when someone has posted a new **issue**.
+In [Slack Open PSX](http://open-psx.slack.com) there is the channel `#forums` that is integrated with the **GitHub**, this way, you will always know when someone has posted a new **issue**.
 
 **Sign In and Participate!**
 
@@ -127,8 +127,10 @@ Badge | Link | Participate
 
 [MIT](https://raw.githubusercontent.com/frontendbr/forum/master/LICENSE)
 
+## Notice
+
 This page | organization | repository is for informational use only. The user of this software, assumes full responsbility ensuring its use in accordance with local and federal laws. The software on this page | organization | repository is provided "as-is", without any express, implied warranty or guarantees. 
 
-PlayStation, <img src="http://vignette3.wikia.nocookie.net/playstationallstarsbattleroyale/images/b/bd/PS_buttons.png/revision/latest?cb=20140515142115" height="15">, DUALSHOCK, [Net Yaroze](https://en.wikipedia.org/wiki/Net_Yaroze) and PSone are registered trademarks of Sony Computer Entertainment Inc.
+PlayStation, <img src="http://vignette3.wikia.nocookie.net/playstationallstarsbattleroyale/images/b/bd/PS_buttons.png/revision/latest?cb=20140515142115" height="16">, DUALSHOCK, [Net Yaroze](https://en.wikipedia.org/wiki/Net_Yaroze) and PSone are registered trademarks of Sony Computer Entertainment Inc.
 
-BTC: 1HkVTxmXRT7s7XUqNFGWaXgq9nJjy4yfLv | LTC: LLidfCazaV9GztZ536z8VXJ4C8Ywk85CSB 
+BTC: | LTC:  
