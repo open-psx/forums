@@ -13,10 +13,11 @@ _____
 
 Welcome!
 
-In summary, Open PSX is a non-profit initiative that aims to encourage explore this platform as obscure as the playstation is. The idea is to organize, create, point and maintain quality content for enthusiasts.
+In summary, Open PSX is a non-profit initiative that aims to encourage explore this platform as obscure as the playstation is. 
+
+The idea is to organize, create, point and maintain quality content for enthusiasts.
 
 We aim to meet this goal by using the GitHub platform, as it makes it possible to unify discussions, people, and code in one place, in a way that facilitates the search and relationship between them.
-
 
 Some of GitHub's strengths in this goal are:
 
@@ -31,65 +32,60 @@ Some of GitHub's strengths in this goal are:
 The structure of this organization was mirrored in [this excellent Brazillian project.](http://frontendbr.com.br/) 
 We thank them.
 
-## Diretrizes e Boas Práticas
+## Guidelines and Best Practices
 
-Antes de criar uma issue você deve atentar para as seguintes diretrizes:
+Before creating an issue you should consider the following guidelines:
 
-### Pesquise
+### Search
 
-Uma habilidade essencial para os desenvolvedores é saber fazer boas pesquisas. Muitas das dúvidas de iniciantes podem ser respondidas com pesquisas simples, portanto antes de postar sua dúvida certifique-se de que fez as pesquisas necessárias e traga para dentro da issue os dados que encontrou e os dados que não encontrou sobre o assunto.
+An essential skill for developers is knowing how to do good research. Many beginner questions can be answered with simple searches, so before posting your question make sure you have done the necessary searches and bring the data you have found and the data you did not find on the subject to the issue.
 
-#### Pesquise no fórum
+#### Search the forum
 
-1. Utilize a função de busca no topo desse repositório (certifique-se de não estar em um *fork*)
+1. Use the search function at the top of this repository (make sure it is not on a *fork*).
 
-2. Pesquise assuntos próximos, talvez sua dúvida possa ter sido respondida em alguma issue parecida
+2. Search for upcoming issues, your question may have been answered on some similar issue.
 
-#### Pesquise na internet
+#### Search the Internet
 
-1. Caso sua dúvida seja sobre uma linguagem ou ferramenta específica, busque sua dúvida na documentação oficial dessa linguagem/ferramenta
+1. If your question is about a specific language or tool, ask your question in the official documentation of that language / tool.
 
-2. Caso o item acima não resolva, utilize preferêncialmente o [Google](https://www.google.com)
+2. If the above does not resolve, please use [Google](https://www.google.com)
 
-3. Tente pesquisar em inglês, nem que pra isso precise recorrer ao [Google Translate](https://translate.google.com)
+3. Try searching in English, even if you need to use [Google Translate](https://translate.google.com)
 
-4. Dê preferência para resultados de documentações oficiais e fóruns especializados, exemplo:
+4. Give preference to results from official documentation and specialized forums, eg:
   * [Mozilla Developer Network (MDN)](https://developer.mozilla.org/pt-BR/)
   * [StackOverflow](http://stackoverflow.com/)
 
-### Outros pontos
+### Other points
 
-* Escreva o português de forma correta e bem pontuado.
-* Evite sair do escopo inicial da issue. Caso necessário, crie uma nova e mencione o número.
-* Se precisar de ajuda em um código, forneça trechos, Gists, e lembre-se, ninguém tem a obrigação de resolver seu problema.
-* Não seja um monólogo que só fala de si. Interaja com as respostas, cite pessoas, gere uma discussão saudável e construtiva. Afinal, quanto mais informações, mais rico nosso ambiente será e ajudará mais pessoas.
+* Write correctly and well punctuated.
+* Avoid getting out of the initial scope of the issue. If necessary, create a new one and mention the number.
+* If you need help in a code, please provide snippets, gists, and remember, no one has an obligation to solve your problem.
+* Do not be a monologue that talks only about you. Interact with the answers, cite people, generate a healthy and constructive discussion. After all, the more information, the richer our environment will be and will help more people.
 
-## Quando criar uma Issue?
+## When to create an Issue?
 
-### Dúvidas
+### Doubts
 
-Concentre suas issues em problemas reais. Inclua detalhes sobre o que você tentou e exatamente o que você está tentando fazer.
+Focus your issues on real issues. Include details about what you tried and exactly what you are trying to do.
 
-O ideal é que antes de criar uma dúvida você tente resolver o problema sozinho, na grande maioria das vezes uma breve busca no Google pode te ajudar a encontrar uma solução.
+Ideally, before you create a question you should try to solve the problem yourself, most of the time a brief Google search can help you find a solution.
 
-Pergunte sobre:
-- Como resolver um determinado problema ex: `Como alterar a cor de fundo de uma div com CSS`.
-- Como executar uma determinada tarefa ex: `Como consumir um webservice REST com Javascript`.
-- Como otimizar um trecho de código ex: `Como percorrer todas as propriedades de um objeto rapidamente`.
+Remember to research hard before opening an issue, there are good chances your question has already been answered and documented over the internet.
 
-Lembre-se de pesquisar bastante antes de abrir uma issue, existem boas chances da sua dúvida já ter sido respondida e estar documentada pela internet.
+### Discussions
 
-### Discussões
+Discussions are always welcome, when formulating an issue, try to be as direct as possible about what you intend to address, if necessary open more than one thread, one for each subject.
 
-Discussões são sempre bem-vindas, ao formular uma issue, tente ser o mais direto possível sobre o que você pretende abordar, se necessário abra mais de uma thread, uma para cada assunto.
+### Tools
 
-### Ferramentas
+Have you discovered a new tool or any other resource that can help group members? Do not hesitate to share with us we are looking forward to your tip
 
-Descobriu uma ferramenta, framework ou qualquer outro recurso que possa ajudar os membros do grupo? Não hesite em compartilhar conosco estamos ansiosos pela sua dica.
+### General
 
-### Geral
-
-Caso seu post não se encaixe em nenhuma das categorias acima, não tem problema. Desde que ele trate sobre Front-End estaremos dispostos a discutir e ajudar.
+If your post does not fit into any of the above categories, no problem. Since it deals with open source we will be willing to discuss and help.
 
 ## Code of Conduct
 
