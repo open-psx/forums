@@ -22,8 +22,8 @@ We aim to meet this goal by using the GitHub platform, as it makes it possible t
 GitHub's strengths:
 
 * Space used by almost all developers
-* [Markdown](https://en.wikipedia.org/wiki/Markdown) as standard formatting language.
-* [Excellent internal search tool](https://github.com/search?utf8=).
+* [Markdown](https://en.wikipedia.org/wiki/Markdown) as standard formatting language
+* [Excellent internal search tool](https://github.com/search?utf8=)
 * It's a social network
 
 The structure of this organization was mirrored in [this excellent Brazillian project.](http://frontendbr.com.br/) 
